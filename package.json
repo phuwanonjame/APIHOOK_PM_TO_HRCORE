@@ -1,0 +1,19 @@
+{
+  "name": "apihook_pm_to_hrcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.4",
+    "dotenv": "^17.3.1",
+    "pg": "^8.18.0",
+    "pg-logical-replication": "^2.3.0",
+    "sqlite3": "^5.1.7"
+  }
+}
